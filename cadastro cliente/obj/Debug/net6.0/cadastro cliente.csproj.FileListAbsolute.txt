@@ -1,0 +1,31 @@
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\bin\Debug\net6.0\appsettings.json
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\bin\Debug\net6.0\cadastro cliente.staticwebassets.runtime.json
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\bin\Debug\net6.0\cadastro cliente.exe
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\bin\Debug\net6.0\cadastro cliente.deps.json
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\bin\Debug\net6.0\cadastro cliente.runtimeconfig.json
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\bin\Debug\net6.0\cadastro cliente.dll
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\bin\Debug\net6.0\cadastro cliente.pdb
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\obj\Debug\net6.0\cadastro cliente.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\obj\Debug\net6.0\cadastro cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\obj\Debug\net6.0\cadastro cliente.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\obj\Debug\net6.0\cadastro cliente.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\obj\Debug\net6.0\cadastro cliente.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\obj\Debug\net6.0\cadastro cliente.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\obj\Debug\net6.0\cadastro cliente.RazorAssemblyInfo.cache
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\obj\Debug\net6.0\cadastro cliente.RazorAssemblyInfo.cs
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\obj\Debug\net6.0\staticwebassets\msbuild.cadastro cliente.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\obj\Debug\net6.0\staticwebassets\msbuild.build.cadastro cliente.props
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.cadastro cliente.props
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.cadastro cliente.props
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\obj\Debug\net6.0\scopedcss\bundle\cadastro cliente.styles.css
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\obj\Debug\net6.0\scopedcss\projectbundle\cadastro cliente.bundle.scp.css
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\obj\Debug\net6.0\cadastro cliente.dll
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\obj\Debug\net6.0\refint\cadastro cliente.dll
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\obj\Debug\net6.0\cadastro cliente.pdb
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\obj\Debug\net6.0\cadastro cliente.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\Projeto\cadastro cliente\cadastro cliente\obj\Debug\net6.0\ref\cadastro cliente.dll
